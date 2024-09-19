@@ -4,7 +4,6 @@ I'm a researcher and developer specializing in **semantic segmentation** with a 
 
 ### About My Work
 - 🌱 Working on **Grasseg**, a remote sensing grassland segmentation project.
-- 🏫 Recently ranked **9/243** in my major and have received postgraduate exemption.
 
 ### Connect With Me
 - [LinkedIn](#)
