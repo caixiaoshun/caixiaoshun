@@ -59,4 +59,4 @@ I enjoy building projects that bridge AI research with practical applications, f
 ## 📫 Contact Me
 
 - GitHub: [@caixiaoshun](https://github.com/caixiaoshun)
-- Email: [caixiaoshun@example.com](mailto:cs.shunzhang@foxmail.com)
+- Email: [cs.shunzhang@foxmail.com](mailto:cs.shunzhang@foxmail.com)
